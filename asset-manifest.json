@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ghpagetestrepo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ghpagetestrepo/static/js/main.761e9419.chunk.js",
+    "main.js.map": "/ghpagetestrepo/static/js/main.761e9419.chunk.js.map",
+    "runtime-main.js": "/ghpagetestrepo/static/js/runtime-main.a690552d.js",
+    "runtime-main.js.map": "/ghpagetestrepo/static/js/runtime-main.a690552d.js.map",
+    "static/js/2.f0107553.chunk.js": "/ghpagetestrepo/static/js/2.f0107553.chunk.js",
+    "static/js/2.f0107553.chunk.js.map": "/ghpagetestrepo/static/js/2.f0107553.chunk.js.map",
+    "index.html": "/ghpagetestrepo/index.html",
+    "precache-manifest.186c2e35f625f8972becc6d85f562305.js": "/ghpagetestrepo/precache-manifest.186c2e35f625f8972becc6d85f562305.js",
+    "service-worker.js": "/ghpagetestrepo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ghpagetestrepo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f0107553.chunk.js.LICENSE.txt": "/ghpagetestrepo/static/js/2.f0107553.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ghpagetestrepo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a690552d.js",
+    "static/js/2.f0107553.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.761e9419.chunk.js"
+  ]
+}
